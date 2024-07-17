@@ -1,1 +1,1 @@
-This repository is made to learn about backend from chai aur code playlist
+This repository is made to learn about react from chai aur code playlist
